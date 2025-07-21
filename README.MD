@@ -45,11 +45,7 @@
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChouhan45&layout=compact&theme=radical)
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitChouhan45&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RohitChouhan45&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=RohitChouhan45&theme=radical)
-[![Rohit’s Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RohitChouhan45&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 > ⚡ "I love building tools that automate, solve real-world problems, and help people stay productive."
