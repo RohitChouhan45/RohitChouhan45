@@ -44,7 +44,6 @@
 
 ## 📈 GitHub Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitChouhan45&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChouhan45&layout=compact&theme=radical)
 
 ---
